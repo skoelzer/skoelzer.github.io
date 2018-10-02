@@ -8,3 +8,9 @@
 	path = public
 	url = https://github.com/skoelzer/skoelzer.github.io.git
 	branch = master
+[submodule "kube"]
+	path = kube
+	url = https://github.com/jeblister/kube.git
+[submodule "themes/kube2"]
+	path = themes/kube2
+	url = https://github.com/jeblister/kube.git

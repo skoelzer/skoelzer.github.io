@@ -1,7 +1,7 @@
 baseURL = "http://skoelzer.github.io/"
 languageCode = "en-us"
 title = "Steven Kölzer"
-theme = "kube"
+theme = "kube2"
 draft = false
 publishDir = "docs"
 
