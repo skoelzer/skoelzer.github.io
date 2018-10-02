@@ -1,3 +1,10 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-so-simple
+#theme: jekyll-theme-slate
 title: Welcome to my homepage!
 descrition: This page serves as my CV as well as an overview about projects I am involved with. 
+
+plugins_dir: ./_plugins
+
+
+plugins: 
+  - jekyll-admin
