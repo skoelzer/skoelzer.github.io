@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Steven Kölzer"
 theme = "kube"
 draft = false
+publishDir = "docs"
 
 [Params]
     author = "skoelzer"
